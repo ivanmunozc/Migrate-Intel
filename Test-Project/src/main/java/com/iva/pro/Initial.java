@@ -10,4 +10,6 @@ public class Initial {
         System.out.println("Nuevo cod");
 
     }
+
+    public void metodo(){}
 }
